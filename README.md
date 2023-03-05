@@ -1,21 +1,22 @@
-/* PATRASCU Ioana-Alexandra - grupa 314CB */
+# Tema 3 SDA
 
------EXPLICATII-----
+SDA = Structuri de date si algoritmi
 
--> Pentru functiile implementate am ales nume sugestive, conform comenzilor invatate la USO.
--> Am implementat cateva functii auxiliare in cadrul task-urilor.
--> Pentru fiecare cerinta exista cate un fisier sursa scris separat, in care poate fi gasita functia asociata. Exceptia de la aceasta regula este data de ultimele 2 task-uri, pwd si find, care se gasesc rezolvate in fisierul pwd.c.
--> In fisierul struct,h se gasesc structurile folosite pe parcursul acestei teme si functiile definite, alaturi de comentarii pentru fiecare camp in parte.
--> Mai multe explicatii sunt oferite in cadrul codului.
+## Explicatii
 
------LOGICA-----
+- Pentru functiile implementate am ales nume sugestive, conform comenzilor invatate la USO.
+- Am implementat cateva functii auxiliare in cadrul task-urilor.
+- Pentru fiecare cerinta exista cate un fisier sursa scris separat, in care poate fi gasita functia asociata. Exceptia de la aceasta regula este data de ultimele 2 task-uri, pwd si find, care se gasesc rezolvate in fisierul pwd.c.
+- In fisierul struct,h se gasesc structurile folosite pe parcursul acestei teme si functiile definite, alaturi de comentarii pentru fiecare camp in parte.
+- Mai multe explicatii sunt oferite in cadrul codului.
 
--> Cateva task-uri se aseamana, difera doar tipul de structura folosit.
--> Acestea sunt: touch-mkdir, rm-rmdir, findF-findD (task-ul numit in enunt doar find, ce poate avea doi parametrii: -f sau -d).
--> Am impartit fiecare task in mai multe cerinte mai simple si fiecare problema intampinata pe mai multe cazuri, fiecare dintre ele comentate inainte de implementarea propriu-zisa.
+## Logica
 
+- Cateva task-uri se aseamana, difera doar tipul de structura folosit.
+- Acestea sunt: touch-mkdir, rm-rmdir, findF-findD (task-ul numit in enunt doar find, ce poate avea doi parametrii: -f sau -d).
+- Am impartit fiecare task in mai multe cerinte mai simple si fiecare problema intampinata pe mai multe cazuri, fiecare dintre ele comentate inainte de implementarea propriu-zisa.
 
------PUNCTAJ-----
+## Punctaj
 
                         = Tema 3 SD SistemFisiere =
 
